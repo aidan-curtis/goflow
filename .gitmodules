@@ -1,0 +1,3 @@
+[submodule "apa_workcells"]
+	path = apa_workcells
+	url = git@git.autodesk.com:robotics-lab/apa_workcells.git
