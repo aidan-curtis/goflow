@@ -1,10 +1,11 @@
 # Flow-based Domain Randomization
 
-Flow-based Domain Randomization for Learning and Sequencing Robotic Skills
+[Flow-based Domain Randomization for Learning and Sequencing Robotic Skills](https://arxiv.org/pdf/2502.01800)
+
 
 ## How to run
 
-Set up and activate a conda environment that works with (isaaclab)[https://isaac-sim.github.io/IsaacLab/main/index.html]
+Set up and activate a conda environment that works with [isaaclab](https://isaac-sim.github.io/IsaacLab/main/index.html)
 
 ```
 python -m pip install -e .
